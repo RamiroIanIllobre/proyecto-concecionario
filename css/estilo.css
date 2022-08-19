@@ -54,3 +54,21 @@ body {
     justify-content: space-between;
     margin-top: auto;
 }
+.divContacto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 20%;
+}
+.formContacto {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.mainUbicacion {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
